@@ -1,6 +1,6 @@
 Hi there !
 This is just a Test Repo for Git push and Pull.
-You are Required to Fork or clone this Repo and Make a simple change.
+You are Required to Fork this Repo and Make a simple change.
 <h1>"CHANGE TO BE ADDED :"</h1>
 <li>Simply Edit the div.box in index.html file and change it to a simple Intro of yours.</li>
 <li>FORMAT RECOMMENDED : "Hi I am "Your_NAME".</li>
