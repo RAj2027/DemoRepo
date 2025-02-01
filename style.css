@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.dabba{
+    margin: 2vw;
+    height: 90vh;
+    display: flex;
+    
+    gap: 1.5vw;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2vw;
+    background-color: rgb(255, 244, 244);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.204);
+    color: rgb(86, 86, 86);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box{
+    width: 15vw;
+    height: 25vh;
+    background-color: rgb(255, 206, 214);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.126);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
