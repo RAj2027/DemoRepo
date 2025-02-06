@@ -1,6 +1,7 @@
-Hi there !
-This is just a Test Repo for Open Source Contributions.
-You are Required to Fork this Repo and Make a simple change.
+<div>
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWF3ZmV3bTAwcTBnbGZ1ZHp5eXRicjZuNDh5NnBzamVpdjYwOWVzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ulZ7gQQz9jwZzv224n/giphy.gif" alt="banner" width="150">
+</div>
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BmNGFiaWM3MnBzODh1MzNlcDhheDU5MG04Znhja25pdms3aXB0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="banner" >
 
 # Open Source Contribution Guide 🚀  
 
@@ -68,6 +69,9 @@ This guide will help you fork, clone, modify, and submit a **Pull Request (PR)**
 4. Select the target branch (usually `main` or `develop`) in the original repository.  
 5. Click **Create pull request**.  
 
-
-
 Now you've successfully contributed to the repository! 🚀
+<div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW85b2ozcWs4c3l3M3BsaW9jMXp3d2x3ZmlxNm9tYWdzeDZucW9obSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/p8dZhDrFsLUxxjsJ7K/giphy.gif" alt="Completion" width="300px">
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRhbXdnNmFmM3g3NzJpMTI1MDJ0Znk3YXZkbzBiMmJoa3libmtldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/V5km8jjklLgIARIyTb/giphy.gif" alt="banner" width="180px" style="margin-left: 24px;">
+</div>
