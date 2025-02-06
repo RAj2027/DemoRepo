@@ -42,7 +42,7 @@ This guide will help you fork, clone, modify, and submit a **Pull Request (PR)**
    ```
 
 ### **Step 4: Make Your Changes**  
-1. Edit the necessary files using an editor (e.g., VS Code, Vim, etc.).  
+1. Edit the necessary files [index.html] using an editor (e.g., VS Code, Vim, etc.).  
 2. After making changes, check the modified files:  
    ```bash
    git status
